@@ -2,7 +2,7 @@ package vector;
 
 import java.util.Scanner;
 
-class VectorUse // constructor one
+class VectorUse // constructor one one 
 {
 	public static void main (String[] args)
 		{
