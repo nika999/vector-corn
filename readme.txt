@@ -4,7 +4,7 @@
 
 
 
-today /// tadam
+delete (today /// tadam)
 
 
 
