@@ -1,0 +1,1 @@
+// it is an example of a new class

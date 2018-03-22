@@ -14,6 +14,11 @@ class Vector
 		
 		return corner;		
 		}
+//                                         //
+//            0 0
+//             &   
+//            ###
+//
 	double Radious () 
 	{
 	//r = Math.pow((Math.pow(x, 2)+Math.pow(y, 2)), 1/2);
