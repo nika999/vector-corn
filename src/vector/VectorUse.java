@@ -9,6 +9,7 @@ class VectorUse // constructor one one
 		Scanner S = new Scanner(System.in);
 		int x = S.nextInt();
 		int y = S.nextInt();
+			Vector vector = 0; // Vector vector = new Vector(x,y); below
 			Vector vector = new Vector(x,y);
 			//vector.ShowInfo();
 			System.out.println("Corner is: " +vector.CornerVec());
