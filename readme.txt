@@ -5,3 +5,18 @@
 
 
 today /// tadam
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+and one more function ... class for subtraction and adding
