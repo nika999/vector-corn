@@ -10,8 +10,8 @@ lalala// please conflict
 
 tadalala // conflict
 
-
-
+ STASH STASH STASH STASH STASH
+ TESTING A COMMAND "clean"
 
 lalala //// try to make conflict
 
