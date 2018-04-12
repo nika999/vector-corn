@@ -21,3 +21,7 @@ and one more function ... class for subtraction and adding
 =======
 new first commit for a new branch OneMoreCalcImproved
 >>>>>>> oneMoreCalcImproved
+
+
+
+editing and testing reset --soft
