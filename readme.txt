@@ -24,4 +24,4 @@ new first commit for a new branch OneMoreCalcImproved
 
 
 
-editing and testing reset --soft
+editing and testing reset --soft .... heh
