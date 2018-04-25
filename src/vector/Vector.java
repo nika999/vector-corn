@@ -30,7 +30,7 @@ class Vector
 	
 /*	void ShowInfo() // method for outlet of data
 		{
-		System.out.println ("Corner is: " + CornerVec ()); 
+		System.out.println ("Korner ic: " + CornerVec ()); 
 		} */
 }
 
